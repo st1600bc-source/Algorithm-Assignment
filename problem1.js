@@ -1,4 +1,4 @@
-const set1 = [3, 1, 7, 9];
+//const set1 = [3, 1, 7, 9];
 const set2 = [2, 4, 1, 9, 3];
 
 let sum = 0;
